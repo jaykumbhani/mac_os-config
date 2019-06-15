@@ -28,8 +28,8 @@ brew install flac
 brew install fzf
 brew install git
 brew install gpg
-brew install graphicsmagick
-brew install graphviz
+# brew install graphicsmagick
+# brew install graphviz
 brew install hg
 brew install hr
 brew install htop
@@ -60,15 +60,15 @@ brew install prettyping
 brew install pv
 brew install ranger
 brew install readline
-brew install reattach-to-user-namespace
-brew install redis
+# brew install reattach-to-user-namespace
+# brew install redis
 brew install ruby-install
-brew install sassc
-brew install shellcheck
-brew install siege
+# brew install sassc
+# brew install shellcheck
+# brew install siege
 brew install sleepwatcher
-brew install tag
-brew install terraform
+# brew install tag
+# brew install terraform
 brew install the_silver_searcher
 brew install tig
 brew install tmux
